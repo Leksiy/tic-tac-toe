@@ -19,7 +19,7 @@ class Gamer:
 class CPU:
     def __init__(self):
         self.LEVEL_MIN = 0
-        self.LEVEL_MAX = 5
+        self.LEVEL_MAX = 7
 
         self.level = 0
         self.mark = 2

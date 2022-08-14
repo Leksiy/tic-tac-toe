@@ -145,8 +145,8 @@ class FrameAbout(tk.Toplevel):
         self.WINDOW_SIZE = {'width': '210', 'height': '140'}
         self.WINDOW_COORDS = {'x': str(parent.winfo_rootx() + 100), 'y': str(parent.winfo_rooty() + 80)}
         self.TITLE = 'About'
-        self.VERSION = '1.1'
-        self.DATE = '06.06.2022'
+        self.VERSION = '1.2'
+        self.DATE = '14.08.2022'
         self.PADX = 5
         self.PADY = 2
         self.FONT_PROGRAM_NAME = ('Helvetica', 16, 'bold')
